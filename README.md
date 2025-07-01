@@ -22,6 +22,29 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
 
 ---
 
+---
+
+### 🏢 Projeto: Extrato Fácil — Grupo Cyrela
+
+Desenvolvi o **Extrato Fácil**, uma solução de automação voltada para o Grupo Cyrela, uma das maiores incorporadoras e construtoras do Brasil. O projeto nasceu da necessidade de simplificar e agilizar o processo de conferência e controle financeiro dos extratos bancários relacionados às operações da empresa.
+
+**O que o Extrato Fácil faz?**
+
+- Automatiza a extração, tratamento e organização dos dados dos extratos bancários recebidos.
+- Concilia as informações financeiras automaticamente com os registros internos, reduzindo erros humanos.
+- Gera relatórios detalhados e dashboards para facilitar a análise e tomada de decisão pelas áreas financeira e contábil.
+- Permite integração com sistemas internos da Cyrela, garantindo atualização em tempo real e maior confiabilidade.
+
+**Impacto e resultados:**
+
+- Redução significativa do tempo gasto em conferência manual de extratos.
+- Minimização de falhas e inconsistências financeiras.
+- Aumento da produtividade das equipes responsáveis pelo controle financeiro.
+- Entrega de dados organizados e confiáveis para tomadas de decisão estratégicas.
+
+Esse projeto demonstra minha capacidade de entender processos complexos corporativos, mapear oportunidades de automação e entregar soluções robustas e alinhadas às necessidades do cliente.
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
