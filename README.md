@@ -58,14 +58,7 @@ Tenho experiência em Python, Power Automate, Excel, VBA e mais de 10 automaçõ
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
 />
-<img 
-    align="left" 
-    alt="Power Automate" 
-    title="Power Automate"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/microsoft-power-automate.png"
-/>
+
 <img 
     align="left" 
     alt="UiPath" 
