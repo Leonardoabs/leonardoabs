@@ -1,10 +1,24 @@
 # 👨🏻‍💻 Leonardo Alves
 
-**`Desenvolvedor RPA e entusiasta em automações`**
+**`Desenvolvedor RPA e entusiasta em automações inteligentes`**
 
-Me chamo Leonardo Alves, tenho 21 anos e sou movido por resolver problemas com tecnologia. Atuo com foco em automações de processos (RPA), desenvolvendo soluções que economizam tempo, reduzem tarefas repetitivas e aumentam a produtividade.
+Me chamo Leonardo Alves, tenho 21 anos e sou apaixonado por resolver problemas com tecnologia. Atualmente atuo com desenvolvimento de automações (RPA), com entregas em ambientes reais e corporativos. Já implementei mais de 10 automações robustas que eliminaram tarefas repetitivas e aumentaram a produtividade de diversas áreas, desde financeiro até operações.
 
-Tenho experiência em Python, Power Automate, Excel, VBA e mais de 10 automações já entregues que geraram impacto direto no dia a dia de empresas. Aqui no GitHub, compartilho projetos que mostram minha forma de pensar e executar, com foco em eficiência, clareza e entrega real.
+Tenho experiência com ferramentas como UiPath, Power Automate e Automation Anywhere, além de dominar linguagens como Python, JavaScript, SQL e VBA. Também me viro bem com bancos de dados como MySQL e Firebase, e integro APIs, planilhas, sistemas web e arquivos com soluções que funcionam no dia a dia.
+
+Este GitHub é um reflexo da minha jornada prática com automações, integrações e projetos que realmente fazem a diferença.
+
+---
+
+### 🚀 Alguns tipos de projetos que já desenvolvi
+
+- 🔁 **Automação de cadastros e relatórios em sistemas internos**
+- 📨 **Envio automático de e-mails com anexos e relatórios**
+- 📊 **Tratamento e limpeza de dados em Excel usando Python e VBA**
+- 🌐 **Extração de dados de sistemas web com bots**
+- 📁 **Organização e renomeação automática de arquivos em rede**
+- 🔗 **Integrações entre APIs, Excel, banco de dados e formulários**
+- ⚙️ **Robôs em Power Automate Desktop, UiPath e Automation Anywhere**
 
 ---
 
@@ -52,13 +66,36 @@ Tenho experiência em Python, Power Automate, Excel, VBA e mais de 10 automaçõ
 />
 <img 
     align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/ios-filled/50/4a90e2/sql.png"
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Firebase" 
+    title="Firebase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/firebase.png" 
+/>
+<img 
+    align="left" 
     alt="VBA" 
     title="VBA"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
 />
-
 <img 
     align="left" 
     alt="UiPath" 
@@ -66,6 +103,22 @@ Tenho experiência em Python, Power Automate, Excel, VBA e mais de 10 automaçõ
     width="30px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/uipath.png" 
+/>
+<img 
+    align="left" 
+    alt="Power Automate" 
+    title="Power Automate"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/microsoft-power-automate.png"
+/>
+<img 
+    align="left" 
+    alt="Automation Anywhere" 
+    title="Automation Anywhere"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://seeklogo.com/images/A/automation-anywhere-logo-4C3957B989-seeklogo.com.png"
 />
 
 <br/>
@@ -91,3 +144,13 @@ Tenho experiência em Python, Power Automate, Excel, VBA e mais de 10 automaçõ
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalvesdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
+
+---
+
+### 📬 Contato
+
+Quer conversar ou saber mais sobre algum projeto?
+
+- 📧 **leonardo.seuemail@email.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+- 💻 Veja meus projetos fixados aqui no GitHub
