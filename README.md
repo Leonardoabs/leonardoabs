@@ -30,7 +30,7 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -38,7 +38,7 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
@@ -46,7 +46,7 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -54,7 +54,7 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
     title="HTML"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
@@ -62,7 +62,7 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
 <img 
     align="left" 
@@ -70,15 +70,7 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/ios-filled/50/4a90e2/sql.png"
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -86,15 +78,15 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
     title="Firebase"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/firebase.png" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" 
 />
 <img 
     align="left" 
-    alt="VBA" 
-    title="VBA"
+    alt="Excel / VBA" 
+    title="Excel / VBA"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
 />
 <img 
     align="left" 
@@ -102,23 +94,26 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
     title="UiPath"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/uipath.png" 
+    src="https://img.icons8.com/fluency/48/uipath.png" 
 />
+
+<!-- Representação textual para ferramentas sem ícone compatível -->
 <img 
     align="left" 
-    alt="Power Automate" 
+    alt="Power Automate (logo não suportado)" 
     title="Power Automate"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/microsoft-power-automate.png"
+    src="https://img.icons8.com/fluency/48/microsoft-flow.png" 
 />
+
 <img 
     align="left" 
     alt="Automation Anywhere" 
     title="Automation Anywhere"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/A/automation-anywhere-logo-4C3957B989-seeklogo.com.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/6/66/Automation_Anywhere_logo.svg" 
 />
 
 <br/>
