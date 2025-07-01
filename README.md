@@ -63,13 +63,22 @@ Esse projeto demonstra minha capacidade de entender processos complexos corporat
 
 ### 📊 Estatísticas
 
-<img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=leonardoabs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=Leonardoabs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
 
 <br/>
 
-<img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Leonardoabs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img 
+    alt="Linguagens Mais Usadas" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardoabs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+/>
 
 ---
+
 
 ### 📬 Contato
 
