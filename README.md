@@ -132,6 +132,9 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
 
 ---
 
+<br/>
+<br/>
+
 ### 📬 Contato
 
 Quer conversar ou saber mais sobre algum projeto?
