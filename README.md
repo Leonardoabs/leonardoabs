@@ -111,29 +111,25 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leonardoalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Linguagens Mais Usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalvesdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
 ---
 
+### 📊 Estatísticas
+
+<img 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=leonardoalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
 <br/>
-<br/>
+
+<img 
+    alt="Linguagens Mais Usadas" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalvesdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+/>
+
+---
 
 ### 📬 Contato
 
@@ -142,4 +138,5 @@ Quer conversar ou saber mais sobre algum projeto?
 - 📧 **leonardo.seuemail@email.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
 - 💻 Veja meus projetos fixados aqui no GitHub
+
 
