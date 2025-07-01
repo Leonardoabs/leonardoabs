@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Leonardo Alves
 
-**`Desenvolvedor RPA e entusiasta em automações inteligentes`**
+**`Desenvolvedor RPA e entusiasta em desenvolvimento inteligentes`**
 
 Me chamo Leonardo Alves, tenho 21 anos e sou apaixonado por resolver problemas com tecnologia. Atualmente atuo com desenvolvimento de automações (RPA), com entregas em ambientes reais e corporativos. Já implementei mais de 10 automações robustas que eliminaram tarefas repetitivas e aumentaram a produtividade de diversas áreas, desde financeiro até operações.
 
