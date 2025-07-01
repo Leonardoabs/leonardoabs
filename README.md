@@ -12,15 +12,13 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
 
 ### 🚀 Alguns tipos de projetos que já desenvolvi
 
-- 🔁 **Automação de cadastros e relatórios em sistemas internos**
-- 📨 **Envio automático de e-mails com anexos e relatórios**
-- 📊 **Tratamento e limpeza de dados em Excel usando Python e VBA**
-- 🌐 **Extração de dados de sistemas web com bots**
-- 📁 **Organização e renomeação automática de arquivos em rede**
-- 🔗 **Integrações entre APIs, Excel, banco de dados e formulários**
+- 🔁 **Automação de cadastros e relatórios em sistemas internos**  
+- 📨 **Envio automático de e-mails com anexos e relatórios**  
+- 📊 **Tratamento e limpeza de dados em Excel usando Python e VBA**  
+- 🌐 **Extração de dados de sistemas web com bots**  
+- 📁 **Organização e renomeação automática de arquivos em rede**  
+- 🔗 **Integrações entre APIs, Excel, banco de dados e formulários**  
 - ⚙️ **Robôs em Power Automate Desktop, UiPath e Automation Anywhere**
-
----
 
 ---
 
@@ -30,127 +28,46 @@ Desenvolvi o **Extrato Fácil**, uma solução de automação voltada para o Gru
 
 **O que o Extrato Fácil faz?**
 
-- Automatiza a extração, tratamento e organização dos dados dos extratos bancários recebidos.
-- Concilia as informações financeiras automaticamente com os registros internos, reduzindo erros humanos.
-- Gera relatórios detalhados e dashboards para facilitar a análise e tomada de decisão pelas áreas financeira e contábil.
+- Automatiza a extração, tratamento e organização dos dados dos extratos bancários recebidos.  
+- Concilia as informações financeiras automaticamente com os registros internos, reduzindo erros humanos.  
+- Gera relatórios detalhados e dashboards para facilitar a análise e tomada de decisão pelas áreas financeira e contábil.  
 - Permite integração com sistemas internos da Cyrela, garantindo atualização em tempo real e maior confiabilidade.
 
 **Impacto e resultados:**
 
-- Redução significativa do tempo gasto em conferência manual de extratos.
-- Minimização de falhas e inconsistências financeiras.
-- Aumento da produtividade das equipes responsáveis pelo controle financeiro.
+- Redução significativa do tempo gasto em conferência manual de extratos.  
+- Minimização de falhas e inconsistências financeiras.  
+- Aumento da produtividade das equipes responsáveis pelo controle financeiro.  
 - Entrega de dados organizados e confiáveis para tomadas de decisão estratégicas.
 
 Esse projeto demonstra minha capacidade de entender processos complexos corporativos, mapear oportunidades de automação e entregar soluções robustas e alinhadas às necessidades do cliente.
 
+---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML" 
-    title="HTML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/ios-filled/50/4a90e2/sql.png"
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/firebase.png" 
-/>
-<img 
-    align="left" 
-    alt="VBA" 
-    title="VBA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"
-/>
-<img 
-    align="left" 
-    alt="UiPath" 
-    title="UiPath"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/uipath.png" 
-/>
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/ios-filled/50/4a90e2/sql.png" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Firebase" title="Firebase" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/firebase.png" />
+<img align="left" alt="VBA" title="VBA" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
+<img align="left" alt="UiPath" title="UiPath" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/uipath.png" />
 
-
-<br/>
-<br/>
-
----
+<br/><br/>
 
 ---
 
 ### 📊 Estatísticas
 
-<img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=leonardoalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
+<img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=leonardoalvesdev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
 <br/>
 
-<img 
-    alt="Linguagens Mais Usadas" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalvesdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-/>
+<img alt="Linguagens Mais Usadas" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalvesdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
 
 ---
 
@@ -158,8 +75,7 @@ Esse projeto demonstra minha capacidade de entender processos complexos corporat
 
 Quer conversar ou saber mais sobre algum projeto?
 
-- 📧 **leoalves.abs@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardoabs/)
+- 📧 **leoalves.abs@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardoabs/)  
 - 💻 Veja meus projetos fixados aqui no GitHub
-
 
