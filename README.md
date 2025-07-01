@@ -67,7 +67,7 @@ Esse projeto demonstra minha capacidade de entender processos complexos corporat
 
 <br/>
 
-<img alt="Linguagens Mais Usadas" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalvesdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
+<img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Leonardoabs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
 ---
 
