@@ -104,22 +104,7 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
     style="padding-right: 10px;" 
     src="https://img.icons8.com/color/48/uipath.png" 
 />
-<img 
-    align="left" 
-    alt="Power Automate" 
-    title="Power Automate"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/color/48/microsoft-power-automate.png"
-/>
-<img 
-    align="left" 
-    alt="Automation Anywhere" 
-    title="Automation Anywhere"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/A/automation-anywhere-logo-4C3957B989-seeklogo.com.png"
-/>
+
 
 <br/>
 <br/>
