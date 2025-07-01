@@ -135,8 +135,8 @@ Este GitHub é um reflexo da minha jornada prática com automações, integraç�
 
 Quer conversar ou saber mais sobre algum projeto?
 
-- 📧 **leonardo.seuemail@email.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+- 📧 **leoalves.abs@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/leonardoabs/)
 - 💻 Veja meus projetos fixados aqui no GitHub
 
 
