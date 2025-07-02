@@ -4,7 +4,7 @@
 
 Me chamo Leonardo Alves, tenho 21 anos e sou apaixonado por resolver problemas com tecnologia. Atualmente atuo com desenvolvimento de automações (RPA), com entregas em ambientes reais e corporativos. Já implementei mais de 10 automações robustas que eliminaram tarefas repetitivas e aumentaram a produtividade de diversas áreas, desde financeiro até operações.
 
-Tenho experiência com ferramentas como UiPath, Power Automate e Automation Anywhere, além de dominar linguagens como Python, JavaScript, SQL e VBA. Também me viro bem com bancos de dados como MySQL e Firebase, e integro APIs, planilhas, sistemas web e arquivos com soluções que funcionam no dia a dia.
+Tenho experiência com ferramentas como UiPath, Power Automate e Automation Anywhere, além de dominar linguagens como Python, Java, SQL e VBA. Também me viro bem com bancos de dados como MySQL e Firebase, e integro APIs, planilhas, sistemas web e arquivos com soluções que funcionam no dia a dia.
 
 Este GitHub é um reflexo da minha jornada prática com automações, integrações e projetos que realmente fazem a diferença.
 
@@ -48,7 +48,7 @@ Esse projeto demonstra minha capacidade de entender processos complexos corporat
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/ios-filled/50/4a90e2/sql.png" />
