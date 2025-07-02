@@ -1,44 +1,47 @@
 # 👨🏻‍💻 Leonardo Alves
 
-**`Desenvolvedor RPA e entusiasta em soluções inteligentes`**
+**`Dev hands-on | Automação, Dashboards e Soluções que funcionam de verdade`**
 
 Olá! Sou o Leonardo, tenho 21 anos e sou movido por resolver problemas com tecnologia.  
-Atuo com automações (RPA) em ambientes corporativos, onde já entreguei **+10 projetos robustos** que eliminaram tarefas repetitivas e aumentaram a produtividade de áreas como **Financeiro**, **Operações** e **TI**.
+Tenho um perfil **hands-on**, focado em criar soluções que funcionam de ponta a ponta — da ideia à entrega.
 
-Domino ferramentas como **UiPath**, **Power Automate** e **Automation Anywhere**, além de linguagens como **Python, Java, SQL e VBA**. Integro APIs, planilhas, sistemas web, bancos de dados e muito mais — sempre com foco em **eficiência prática**.
+Trabalho com automações (RPA), mas meu repertório vai além disso: também desenvolvo **dashboards interativos com Python e BI**, organizo **documentações técnicas**, integro APIs, banco de dados, Excel, sistemas web e muito mais.
 
-> ⚡ Aqui no GitHub compartilho projetos reais que mostram minha paixão por automação e integração de processos.
+Já entreguei **+10 automações e ferramentas reais** usadas por áreas como **Financeiro**, **TI**, **Operações** e **Backoffice**, ajudando a economizar tempo, reduzir erros e melhorar processos internos.
+
+> ⚡ Aqui no GitHub compartilho projetos que representam minha paixão por **tecnologia útil** — prática, bem-feita e que resolve problemas reais.
 
 ---
 
 ### 🚀 O que eu já desenvolvi:
 
-- 🔁 **Automação de cadastros e relatórios em sistemas internos**  
-- 📩 **Envio automático de e-mails com anexos e relatórios**  
-- 📊 **Tratamento e limpeza de dados com Python e VBA**  
-- 🌐 **Scrapers e bots para sistemas web e APIs**  
-- 📁 **Organização automática de arquivos em rede**  
-- 🔗 **Integração entre Excel, SQL, Firebase e formulários**  
-- 🤖 **Robôs em UiPath, Power Automate e Automation Anywhere**
+- 🔁 **Automação de cadastros, processos internos e relatórios**
+- 📩 **Envio automático de e-mails com anexos e informações dinâmicas**
+- 📊 **Dashboards com Python, Plotly, Dash e Excel VBA**
+- 🧼 **Tratamento e limpeza de dados com Python e planilhas**
+- 🌐 **Scrapers e bots para web e sistemas internos**
+- 🔗 **Integrações entre Excel, SQL, Firebase, APIs e formulários**
+- 📄 **Documentações técnicas e operacionais em Markdown, Word e Confluence**
+- 🤖 **Robôs com UiPath, Power Automate e Automation Anywhere**
 
 ---
 
-### 🏢 Destaque: Projeto "Extrato Fácil" — Grupo Cyrela
+### 🏢 Projeto Destaque — “Extrato Fácil” | Grupo Cyrela
 
 Solução criada para automatizar o processo de **conferência e controle financeiro** de extratos bancários.
 
-**Principais entregas:**
-- 📥 Extração e tratamento automático de extratos recebidos  
-- 🔎 Conciliação financeira com dados internos  
-- 📈 Relatórios e dashboards automatizados  
-- 🔗 Integração com sistemas da Cyrela para atualização em tempo real
+**Entregas principais:**
+- 📥 Extração e tratamento automático de arquivos bancários
+- 🔍 Conciliação com dados internos da empresa
+- 📈 Dashboards e relatórios prontos para tomada de decisão
+- 🔗 Integração com sistemas internos para atualização em tempo real
 
-**Impacto:**
-- ⏱️ Redução de tempo com conferência manual  
-- ✅ Eliminação de falhas humanas  
-- 📊 Dados prontos para decisões estratégicas
+**Resultados:**
+- ⏱️ Economia de tempo nas rotinas financeiras
+- ✅ Redução de falhas humanas
+- 💡 Dados confiáveis para decisões estratégicas
 
-> Um projeto que mostra minha habilidade em mapear processos complexos e transformar isso em **soluções reais e robustas.**
+> Um projeto que mostra minha habilidade de mapear processos complexos e entregar **soluções robustas e práticas**.
 
 ---
 
