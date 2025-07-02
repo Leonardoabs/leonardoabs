@@ -1,50 +1,48 @@
 # 👨🏻‍💻 Leonardo Alves
 
-**`Desenvolvedor RPA e entusiasta em desenvolvimento inteligentes`**
+**`Desenvolvedor RPA e entusiasta em soluções inteligentes`**
 
-Me chamo Leonardo Alves, tenho 21 anos e sou apaixonado por resolver problemas com tecnologia. Atualmente atuo com desenvolvimento de automações (RPA), com entregas em ambientes reais e corporativos. Já implementei mais de 10 automações robustas que eliminaram tarefas repetitivas e aumentaram a produtividade de diversas áreas, desde financeiro até operações.
+Olá! Sou o Leonardo, tenho 21 anos e sou movido por resolver problemas com tecnologia.  
+Atuo com automações (RPA) em ambientes corporativos, onde já entreguei **+10 projetos robustos** que eliminaram tarefas repetitivas e aumentaram a produtividade de áreas como **Financeiro**, **Operações** e **TI**.
 
-Tenho experiência com ferramentas como UiPath, Power Automate e Automation Anywhere, além de dominar linguagens como Python, Java, SQL e VBA. Também me viro bem com bancos de dados como MySQL e Firebase, e integro APIs, planilhas, sistemas web e arquivos com soluções que funcionam no dia a dia.
+Domino ferramentas como **UiPath**, **Power Automate** e **Automation Anywhere**, além de linguagens como **Python, Java, SQL e VBA**. Integro APIs, planilhas, sistemas web, bancos de dados e muito mais — sempre com foco em **eficiência prática**.
 
-Este GitHub é um reflexo da minha jornada prática com automações, integrações e projetos que realmente fazem a diferença.
+> ⚡ Aqui no GitHub compartilho projetos reais que mostram minha paixão por automação e integração de processos.
 
 ---
 
-### 🚀 Alguns tipos de projetos que já desenvolvi
+### 🚀 O que eu já desenvolvi:
 
 - 🔁 **Automação de cadastros e relatórios em sistemas internos**  
-- 📨 **Envio automático de e-mails com anexos e relatórios**  
-- 📊 **Tratamento e limpeza de dados em Excel usando Python e VBA**  
-- 🌐 **Extração de dados de sistemas web com bots**  
-- 📁 **Organização e renomeação automática de arquivos em rede**  
-- 🔗 **Integrações entre APIs, Excel, banco de dados e formulários**  
-- ⚙️ **Robôs em Power Automate Desktop, UiPath e Automation Anywhere**
+- 📩 **Envio automático de e-mails com anexos e relatórios**  
+- 📊 **Tratamento e limpeza de dados com Python e VBA**  
+- 🌐 **Scrapers e bots para sistemas web e APIs**  
+- 📁 **Organização automática de arquivos em rede**  
+- 🔗 **Integração entre Excel, SQL, Firebase e formulários**  
+- 🤖 **Robôs em UiPath, Power Automate e Automation Anywhere**
 
 ---
 
-### 🏢 Projeto: Extrato Fácil — Grupo Cyrela
+### 🏢 Destaque: Projeto "Extrato Fácil" — Grupo Cyrela
 
-Desenvolvi o **Extrato Fácil**, uma solução de automação voltada para o Grupo Cyrela, uma das maiores incorporadoras e construtoras do Brasil. O projeto nasceu da necessidade de simplificar e agilizar o processo de conferência e controle financeiro dos extratos bancários relacionados às operações da empresa.
+Solução criada para automatizar o processo de **conferência e controle financeiro** de extratos bancários.
 
-**O que o Extrato Fácil faz?**
+**Principais entregas:**
+- 📥 Extração e tratamento automático de extratos recebidos  
+- 🔎 Conciliação financeira com dados internos  
+- 📈 Relatórios e dashboards automatizados  
+- 🔗 Integração com sistemas da Cyrela para atualização em tempo real
 
-- Automatiza a extração, tratamento e organização dos dados dos extratos bancários recebidos.  
-- Concilia as informações financeiras automaticamente com os registros internos, reduzindo erros humanos.  
-- Gera relatórios detalhados e dashboards para facilitar a análise e tomada de decisão pelas áreas financeira e contábil.  
-- Permite integração com sistemas internos da Cyrela, garantindo atualização em tempo real e maior confiabilidade.
+**Impacto:**
+- ⏱️ Redução de tempo com conferência manual  
+- ✅ Eliminação de falhas humanas  
+- 📊 Dados prontos para decisões estratégicas
 
-**Impacto e resultados:**
-
-- Redução significativa do tempo gasto em conferência manual de extratos.  
-- Minimização de falhas e inconsistências financeiras.  
-- Aumento da produtividade das equipes responsáveis pelo controle financeiro.  
-- Entrega de dados organizados e confiáveis para tomadas de decisão estratégicas.
-
-Esse projeto demonstra minha capacidade de entender processos complexos corporativos, mapear oportunidades de automação e entregar soluções robustas e alinhadas às necessidades do cliente.
+> Um projeto que mostra minha habilidade em mapear processos complexos e transformar isso em **soluções reais e robustas.**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Tecnologias e Ferramentas
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -79,12 +77,8 @@ Esse projeto demonstra minha capacidade de entender processos complexos corporat
 
 ---
 
-
-### 📬 Contato
-
-Quer conversar ou saber mais sobre algum projeto?
+### 📬 Vamos conversar?
 
 - 📧 **leoalves.abs@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/leonardoabs/)  
-- 💻 Veja meus projetos fixados aqui no GitHub
-
+- 📌 Veja os **projetos fixados** aqui no perfil!
