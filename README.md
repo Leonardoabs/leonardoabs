@@ -7,7 +7,7 @@ Tenho um perfil **hands-on**, focado em criar soluções que funcionam de ponta 
 
 Trabalho com automações (RPA), mas meu repertório vai além disso: também desenvolvo **dashboards interativos com Python e BI**, organizo **documentações técnicas**, integro APIs, banco de dados, Excel, sistemas web e muito mais.
 
-Já entreguei **+10 automações e ferramentas reais** usadas por áreas como **Financeiro**, **TI**, **Operações** e **Backoffice**, ajudando a economizar tempo, reduzir erros e melhorar processos internos.
+Já entreguei **+10 automações e ferramentas reais** usadas por áreas como **Financeiro**, **Operações** e **Backoffice**, ajudando a economizar tempo, reduzir erros e melhorar processos internos.
 
 > ⚡ Aqui no GitHub compartilho projetos que representam minha paixão por **tecnologia útil** — prática, bem-feita e que resolve problemas reais.
 
@@ -21,8 +21,8 @@ Já entreguei **+10 automações e ferramentas reais** usadas por áreas como **
 - 🧼 **Tratamento e limpeza de dados com Python e planilhas**
 - 🌐 **Scrapers e bots para web e sistemas internos**
 - 🔗 **Integrações entre Excel, SQL, Firebase, APIs e formulários**
-- 📄 **Documentações técnicas e operacionais em Markdown, Word e Confluence**
-- 🤖 **Robôs com UiPath, Power Automate e Automation Anywhere**
+- 📄 **Documentações técnicas e operacionais**
+- 🤖 **Robôs com Power Automate e Automation Anywhere**
 
 ---
 
@@ -31,10 +31,9 @@ Já entreguei **+10 automações e ferramentas reais** usadas por áreas como **
 Solução criada para automatizar o processo de **conferência e controle financeiro** de extratos bancários.
 
 **Entregas principais:**
-- 📥 Extração e tratamento automático de arquivos bancários
-- 🔍 Conciliação com dados internos da empresa
+- 📥 Extração e tratamento automático de arquivos bancários  
+- 📌 Retorno estruturado de todas as linhas de entrada válidas  
 - 📈 Dashboards e relatórios prontos para tomada de decisão
-- 🔗 Integração com sistemas internos para atualização em tempo real
 
 **Resultados:**
 - ⏱️ Economia de tempo nas rotinas financeiras
